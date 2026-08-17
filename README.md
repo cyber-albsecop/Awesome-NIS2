@@ -26,9 +26,6 @@ Tools and scripts to help implement NIS2 requirements
 - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community)
 - [paolocarner/nis2-sme-toolkit](https://github.com/paolocarner/nis2-sme-toolkit)
 
-## Best Practices
-Examples of best practices for implementing NIS2 security measures
-
 ---
 
 We welcome contributions from anyone interested in NIS2 and cybersecurity. Whether you're a security expert, a developer, or just interested in learning more, your input is valuable. Feel free to:
